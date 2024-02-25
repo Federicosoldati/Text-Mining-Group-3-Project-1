@@ -2,6 +2,12 @@
 
 This repository serves as a collaborative space for the Text Mining Group 3 Project 1.
 
+Members: 
+Alexander Saines - r0731904
+Federico Soldati - r0924528
+Yiannis (Ioannis) Dikaioulias - r0911559
+Stefan Panggabean - r0865831
+
 ## Environment Setup
 
 ### Python Version
